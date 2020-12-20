@@ -2,7 +2,7 @@
 
 TronTool开发包适用于为PHP应用快速增加对Tron/USDT-TRC20数字资产的支持能力，
 即支持使用自有Tron区块链节点的应用场景，也支持基于Tron官方公共API服务的
-轻量级部署场景。
+轻量级部署场景。官方下载地址：[http://sc.hubwiz.com/codebag/tron-php-lib/](http://sc.hubwiz.com/codebag/tron-php-lib/)
 
 TronTool开发包主要包含以下特性：
 
