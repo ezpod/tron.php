@@ -57,7 +57,7 @@ TronTool的主要代码文件清单如下：
 
 执行结果如下：
 
-![](http://sc.hubwiz.com/codebag/tron-php-lib/img/new-address-demo.png)
+![tron php uml](http://sc.hubwiz.com/codebag/tron-php-lib/img/new-address-demo.png)
 
 ### 2.2 Trx转账及余额查询
 
@@ -70,7 +70,7 @@ TronTool的主要代码文件清单如下：
 
 执行结果如下：
 
-![](http://sc.hubwiz.com/codebag/tron-php-lib/img/trx-demo.png)
+![tron php trx demo](http://sc.hubwiz.com/codebag/tron-php-lib/img/trx-demo.png)
 
 ### 2.3 Trc20代币转账、余额查询及事件监听
 
@@ -83,7 +83,7 @@ TronTool的主要代码文件清单如下：
 
 执行结果如下：
 
-![](http://sc.hubwiz.com/codebag/tron-php-lib/img/trc20-demo.png)
+![tron php trc20 demo](http://sc.hubwiz.com/codebag/tron-php-lib/img/trc20-demo.png)
 
 ### 2.4 Tron智能合约部署
 
@@ -96,7 +96,7 @@ TronTool的主要代码文件清单如下：
 
 执行结果如下：
 
-![](http://sc.hubwiz.com/codebag/tron-php-lib/img/deploy-contract-demo.png)
+![tron php deploy contract demo](http://sc.hubwiz.com/codebag/tron-php-lib/img/deploy-contract-demo.png)
 
 ## 2、使用TronKit
 
